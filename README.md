@@ -1,4 +1,4 @@
-In this project, the house prices listed in the various regions of Greater Toronto Area (GTA) on the website www.realtor.ca are analyzed.
+In this project, the house prices listed in the various regions of Greater Toronto Area (GTA) on the website www.realtor.ca were analyzed.
 
 The prices were scraped from the website on March 16, 2022.
 
